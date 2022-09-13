@@ -2,7 +2,7 @@
 
 -- Some description about this project:
 
-Demo shop website using mern. The terms stand for: mongodb, nodejs, react and express.
+Shop demo website using MERN. 
 
 This website focus on fetching data from db using noSQL and how to sort arrays of products by price, size, and color. And using cart to indicate the quantities of products the user have choosed. And the total of price they have to pay for all those products. 
 They can change the quantiy of each product directly in the cart page before purchasing. 
